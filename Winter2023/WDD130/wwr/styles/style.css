@@ -47,7 +47,7 @@ nav a:hover{
 }
 .book:hover, .join:hover{
     background-color: aqua;
-    color:beige;
+    color:beige
 }
 #background{
     background-color: aquamarine;
@@ -224,4 +224,15 @@ nav {
     footer {
         margin-top: 25px;
     }
+}
+
+/* Rivers page */
+.float-img{
+    margin: 25px;
+}
+.river-img{
+    margin: 25px;
+}
+.rafting-img{
+    margin: 50px;
 }
